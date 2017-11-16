@@ -8,6 +8,7 @@ public class Main {
 		
 		Test t = new Test();
 		t.printout();
+		System.out.println("Created by DJ");
 
 	}
 
